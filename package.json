@@ -1,0 +1,21 @@
+{
+    "name": "mvcexpressjs",
+    "version": "1.0.0",
+    "description": "Un pequeño proyecto para usar el patrón MVC con las librerías Express, JQuery y Hammer de JS.",
+    "main": "mvc.js",
+    "dependencies": {
+        "eslint": "^5.16.0",
+        "express": "^4.17.0",
+        "nyc": "^14.1.1",
+        "path": "^0.12.7"
+    },
+    "devDependencies": {},
+    "scripts": {
+        "test": "echo \"Error: no test specified\" && exit 1"
+    },
+    "author": "Francisco Sola Porcuna",
+    "license": "ISC",
+    "repository": {
+        "url": "https://github.com/Fnapo/MVC-Express-Js.git"
+    }
+}
